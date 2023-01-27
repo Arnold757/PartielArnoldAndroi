@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">PartielArnoldAndroid</string>
+<string name="NameMenu">Name</string>
+<string name="Last_Name_Menu">Last_Name</string>
+    <string name="Complet_adress">adress</string>
+    <string name="Contact_Mail">e_Mail</string>
+    <string name="Personnes">Personnes</string>
+    <string name="MenuContact">VoirPlus</string>
+    <string name="AndroidContactDS">AndroidContactDS</string>
+    <string name="app_nam">Contact</string>
+
+
+    <string name="Affichage_des_contacts"></string>
+    <string name="AndroidContact">Info</string>
+    <string name="First_Name">Prenom</string>
+    <string name="Last_Name">Nom</string>
+    <string name="adress">adresse</string>
+    <string name="e_Mail">Mail</string>
+
+    <string name="VoirPlus">VoirPlus</string>
+    <string-array name="Prenom">
+        <item>Arnold</item>
+        <item>DEDJI</item>
+        <item>10_rue_Ferdinand_Pelloutier</item>
+        <item>arnolddedji@gmail.com</item>
+
+
+    </string-array>
+
 </resources>
